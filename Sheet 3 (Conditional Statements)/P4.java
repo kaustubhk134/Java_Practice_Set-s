@@ -11,9 +11,5 @@ public class P4 {
         }else{
             System.out.println("NON LEAP YEAR");
         }
-
-        
     }
-    
 }
-
