@@ -22,7 +22,6 @@ public class P2 {
         }
         System.out.println("Sum of EVEN Integer : "+ evenInt);
         System.out.println("Sum of ODD Integer : "+ oddInt);
-        
     }
     
 }
