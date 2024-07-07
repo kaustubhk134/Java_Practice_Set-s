@@ -12,5 +12,4 @@ public class P2 {
             System.out.println("You Don't have Fever");
         }
     }
-    
 }
