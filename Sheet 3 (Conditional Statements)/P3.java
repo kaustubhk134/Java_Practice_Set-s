@@ -22,8 +22,7 @@ public class P3 {
                      break;
             case 7 : System.out.println("SUNDAY");
                      break;
-            default : System.out.println("INVALID ENTRY");
-                    
+            default : System.out.println("INVALID ENTRY");         
         }
     }
 }
