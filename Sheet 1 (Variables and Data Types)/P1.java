@@ -12,7 +12,6 @@ public class P1 {
         int c = sc.nextInt();
 
         System.out.println("The Average is : "+ (a + b + c) / 3 );
-
     }
     
 }
