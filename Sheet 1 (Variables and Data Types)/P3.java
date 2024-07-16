@@ -16,6 +16,5 @@ public class P3 {
         float finalsum = (addgst + sum);
 
         System.out.println("Total Bill with 18% GST : "+ finalsum);
-
     }
 }
